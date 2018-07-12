@@ -1,5 +1,6 @@
 # appweather
 weather app
+<span style="color:red">Lưu ý : máy phải được cài đặt Nodejs</span>
 Hướng dẫn cài đặt và chạy app
 1. git clone https://github.com/vuong2017/appweather.git
 2. vào forder vừa clone về mở cmd lên chạy lệnh --> npm install
